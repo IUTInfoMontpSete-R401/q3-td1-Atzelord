@@ -2,6 +2,7 @@
 ### IUT Montpellier-Sète – Département Informatique
 * **Cours:** [R4.01 - Architecture Logicielle @ MOODLE]
 * **Enseignant:** [Malo Gasquet](mailto:malo.gasquet@umontpellier.fr),  [Nadjib Lazaar](mailto:nadjib.lazaar@umontpellier.fr), [Cyrille Nadal](mailto:cyrille.nadal@umontpellier.fr), [Nathalie Palleja](mailto:nathalie.palleja@umontpellier.fr),   [Simon Robillard](mailto:simon.robillard@umontpellier.fr)
+* **Etudiant:** [Joan Clavel](mailto:joan.clavel@etu.umontpellier.fr)
 * [Fiche TD1](TD1.pdf).
 
 * Lien classroom :
