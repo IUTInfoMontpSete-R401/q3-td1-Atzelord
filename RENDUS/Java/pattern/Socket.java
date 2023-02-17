@@ -1,15 +1,20 @@
-public class SuperChaussette {
-    private ChaussetteState etat;
+package pattern;
 
-    public SuperChaussette() {
-        etat = new InitialState(this);
+import pattern.etat.SocketState;
+import pattern.etat.Initial;
+
+public class Socket {
+    private SocketState etat;
+
+    public Socket() {
+        etat = new Initial(this);
     }
 
-    public ChaussetteState getEtat() {
+    public SocketState getEtat() {
         return etat;
     }
 
-    public void changeState(ChaussetteState etat) {
+    public void changeState(SocketState etat) {
         this.etat = etat;
     }
 

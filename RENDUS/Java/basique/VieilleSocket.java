@@ -1,4 +1,6 @@
-public class Chaussette {
+package basique;
+
+public class VieilleSocket {
 
     private enum Etat {
         INITIAL,
@@ -9,7 +11,7 @@ public class Chaussette {
 
     private Etat etat;
 
-    public Chaussette() {
+    public VieilleSocket() {
         etat = Etat.INITIAL;
     }
 
